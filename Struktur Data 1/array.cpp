@@ -9,7 +9,7 @@ int main(){
 	nilai[4]=4;
 	nilai[5]=5;
 	
-	cout<<"Nilainya adalah :"<<cin>> nilai[1] << endl;
+	cout<<"Nilainya adalah :"<< nilai[1] << endl;
 	cout<<"Nilainya adalah :"<< nilai[2] << endl;
 	cout<<"Nilainya adalah :"<< nilai[3] << endl;
 	cout<<"Nilainya adalah :"<< nilai[4] << endl;
