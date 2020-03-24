@@ -9,7 +9,7 @@ int main()
 					{{25,26},{27,28},{29,30},{31,32}}};
 
 	
-	//PRINTOUT HASIL OPERASI
+	//PRINTOUT HASIL
 		for(int i=0;i<4;i++){
 		for(int j=0;j<4;j++){
 		for(int k=0;k<2;k++){
